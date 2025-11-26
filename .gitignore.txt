@@ -1,0 +1,22 @@
+.ipynb_checkpoints
+__pycache__
+Dataset
+LATEST
+Logs
+mod
+Nov 2025
+Plot
+Records
+Update 2k25 nov
+utils
+vsv
+gradcam
+h
+new_report
+old train.py
+packages
+ProposedNetwork_StratifiedKFold_Final_fold_5_training
+qwerty
+train old
+Untitled
+Untitled2
